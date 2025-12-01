@@ -10,5 +10,5 @@
    py -m pip install matplotlib
 
 4. Ejecuta el programa:
-   py Prueba.py
+   py Admin - Rent.py
 <img width="408" height="612" alt="image" src="https://github.com/user-attachments/assets/536c93b7-a195-406a-80b9-99b837485584" />
